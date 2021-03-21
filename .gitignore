@@ -131,3 +131,5 @@ dmypy.json
 # Others
 *.csv
 *.gz
+Command-Files/safecast.ipynb
+Documents/tematy.pdf
