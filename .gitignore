@@ -133,3 +133,6 @@ dmypy.json
 *.gz
 Command-Files/safecast.ipynb
 Documents/tematy.pdf
+Original-Data/measurements.csv.zip
+Analysis-Data/Analysis-Data.zip
+Command-Files/Command-Files.zip
